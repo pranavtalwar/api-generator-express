@@ -1,7 +1,7 @@
 {
   "name": "api-generator-express",
-  "version": "1.0.2",
-  "description": "CLI to clone a skeleton for a simple Express app.",
+  "version": "1.0.3",
+  "description": "A CLI tool that clones a skeleton for a simple Express app.",
   "bin": {
     "api-generator-express": "index.js"
   },
