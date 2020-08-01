@@ -1,6 +1,6 @@
 # api-generator-express
 
-A skeleton for a simple Express app.
+A CLI tool that clones a skeleton for a simple Express app.
 
 ## Installation - (npm)
 
