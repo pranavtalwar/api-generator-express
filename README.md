@@ -1,4 +1,4 @@
-# express-api-skeleton
+# api-generator-express
 
 A skeleton for a simple Express app.
 
