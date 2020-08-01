@@ -7,14 +7,14 @@ A skeleton for a simple Express app.
 Install the CLI
 
 ```bash
-npm install express-api-generator -g
+npm install api-generator-express -g
 ```
 
 ## Usage
 
 ```bash
-express-api-generator name-of-app
-npx express-api-generator name-of-app
+api-generator-express name-of-app
+npx api-generator-express name-of-app
 ``` 
 
 Clones this [repository](https://github.com/pranavtalwar/express-api-skeleton) and installed the dependencies
