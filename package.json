@@ -1,7 +1,10 @@
 {
   "name": "api-generator-express",
-  "version": "1.0.1",
-  "description": "",
+  "version": "1.0.2",
+  "description": "CLI to clone a skeleton for a simple Express app.",
+  "bin": {
+    "api-generator-express": "index.js"
+  },
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
